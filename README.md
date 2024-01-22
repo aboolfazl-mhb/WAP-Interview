@@ -1,20 +1,8 @@
 
-<div align="left" markdown="1">
-
-[**گزارش  مشکلات و ارسال مطلب**](https://github.com/soheilsec/WAP-Interview/issues)
-</div>
 
 
 <br>
 
-<div align=center markdown="1">
-
-![Logo](https://github-production-user-asset-6210df.s3.amazonaws.com/46918547/260306529-f4825512-b9cf-49e8-8452-580170cdd8e9.png)
-<br>
-[![Telegram Channel](https://img.shields.io/endpoint?label=Channel&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Flearnpentest&color=blue)](https://t.me/learnpentest) [![Youtube](https://img.shields.io/youtube/channel/views/UC5JFQgYovNP4VAC3AikAVJQ?label=Youtube&style=flat-square&logo=youtube)](https://www.youtube.com/@soheilsec)
-
-
-</div>
 
 <div dir="rtl" markdown="1">
 
